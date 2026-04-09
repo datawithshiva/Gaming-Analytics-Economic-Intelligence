@@ -1,10 +1,10 @@
-Gaming Analytics and Economic Intelligence
+**Gaming Analytics and Economic Intelligence**
 
-Project Overview
+**Project Overview**
 
 This project analyzes player behavior, engagement, and in-game economy across multiple games. The goal is to provide actionable insights that help optimize game design, improve player retention, and maximize revenue.
 
-Key objectives:
+**Key objectives:**
 
 Understand player engagement patterns
 
@@ -14,7 +14,7 @@ Identify revenue trends and monetization opportunities
 
 Detect low-performing games and areas for improvement
 
-Dataset
+**Dataset**
 
 The analysis uses synthetic and/or real-world gaming data including:
 
@@ -26,7 +26,7 @@ Economy Data: Resources generated, consumed, and economic gaps
 
 Player Metrics: Player retention, churn rates, and activity levels
 
-Features & Analysis
+**Features & Analysis**
 
 Player Engagement Analysis: Track active sessions, average session time, and daily active users
 
@@ -36,7 +36,7 @@ Economic Intelligence: Calculate economy gaps and balance in-game resources
 
 Low-Performing Games Identification: Pinpoint games needing improvement or redesign
 
-Tools & Technologies
+**Tools & Technologies**
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
@@ -44,7 +44,7 @@ SQL for data extraction and querying
 
 Power BI / Tableau (optional) for dashboard visualization
 
-Sample Insights
+**Sample Insights**
 
 Total Sessions: 8.92M
 
@@ -55,3 +55,7 @@ Average Session Time: 31.6 minutes
 Economy Gap: 2.39M (resource imbalance)
 
 Low-performing games identified for optimization
+
+⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to connect!
